@@ -1,0 +1,14 @@
+# ninja log v5
+0	304	7197021469315978	CMakeFiles/CadEx.dir/main.cpp.obj	7cee72a59b7f2815
+8	322	7197021469501705	CMakeFiles/CadEx.dir/Src/Ellipse.cpp.obj	f323ee55f6ad675d
+5	322	7197021469501705	CMakeFiles/CadEx.dir/Src/Circle.cpp.obj	9d67ed0fcca97541
+13	335	7197021469632963	CMakeFiles/CadEx.dir/Src/Helix.cpp.obj	f6f01ba004f2bd5d
+335	667	7197021472450164	CadEx.exe	edbe6ef73c250d72
+1	463	7197021720984821	CMakeFiles/CadEx.dir/main.cpp.obj	7cee72a59b7f2815
+464	672	7197021722662742	CadEx.exe	edbe6ef73c250d72
+0	561	7197023051314166	CMakeFiles/CadEx.dir/main.cpp.obj	7cee72a59b7f2815
+561	771	7197023052745978	CadEx.exe	edbe6ef73c250d72
+1	498	7197023520826945	CMakeFiles/CadEx.dir/main.cpp.obj	7cee72a59b7f2815
+498	662	7197023522129740	CadEx.exe	edbe6ef73c250d72
+0	924	7197552690346960	CMakeFiles/CadEx.dir/main.cpp.obj	7cee72a59b7f2815
+924	1113	7197552691973900	CadEx.exe	edbe6ef73c250d72

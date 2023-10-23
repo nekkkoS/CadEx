@@ -1,0 +1,3 @@
+H:/A_Projects/CADEx_ready/CadEx/cmake-build-debug/CMakeFiles/CadEx.dir
+H:/A_Projects/CADEx_ready/CadEx/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/A_Projects/CADEx_ready/CadEx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
